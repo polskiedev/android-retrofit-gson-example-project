@@ -10,3 +10,6 @@ Website: https://simplifiedcoding.net/
 ### Data Used ###
 JSON Data: https://simplifiedcoding.net/demos/marvel/
 
+### Libraries Used ###
+com.squareup.retrofit2:retrofit:2.3.0
+com.squareup.retrofit2:converter-gson:2.2.0
